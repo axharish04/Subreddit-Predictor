@@ -49,7 +49,8 @@ It also provides clear justifications for its decisions.
 - Python 3.7+
 - pandas, numpy, matplotlib
 - gensim (Word2Vec)
-
+- Beautiful Soup for webscraping
+  
 
 ---
 
