@@ -1,0 +1,11 @@
+Ontology-Enhanced Subreddit Classifier
+An intelligent text classification system that leverages semantic ontologies to categorize Reddit posts into appropriate subreddits with detailed explanations.
+Overview
+This project implements a hybrid approach to text classification by combining traditional machine learning techniques with a rich semantic ontology. The system can classify Reddit posts into five major categories (technology, science, gaming, fitness, and movies) while providing transparent reasoning for its decisions.
+Key Features
+
+Semantic Ontology Framework: Hierarchical knowledge representation with categories, subgroups, concepts, and synonyms
+Multi-method Approach: Combines TF-IDF, graph-based features, and word embeddings
+Explainable Classifications: Visual and textual explanations showing which terms influenced decisions
+Interactive Interface: Real-time classification with detailed evidence paths
+BERT Enhancement: Alternative implementation using BERT for improved semantic understanding
